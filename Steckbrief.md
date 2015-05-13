@@ -7,7 +7,7 @@
   * Hobbys: Listen schreiben
   * Lieblingsfarbe: 0x01
   
-  [Homework](https://github.com/Nizne/Homework/blob/master/README.md)
+  [Homework](https://github.com/Nizne/Homework/blob/master/Homework.md)
   
   
   
